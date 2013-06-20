@@ -1,6 +1,6 @@
 # Native equivalents of jQuery functions
 
-* Update: many people have asked about browser compatability for the native
+*Update: many people have asked about browser compatability for the native
 methods I’ve shown. Here are the links to that information:
 [querySelector/querySelectorAll][1], [classList][2], [getElementsByClassName][3],
 [createDocumentFragment][4].*
